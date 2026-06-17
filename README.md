@@ -1,10 +1,21 @@
-# jobapp
+# AI Job Portal App
 
-A new Flutter project.
+A Flutter-based AI-powered job portal application for Job Seekers and Employers.
 
-## Getting Started
+## Features
+- Job Seeker Login
+- Employer Login
+- Job Posting
+- Job Applications
+- AI Career Assistant
+- Profile Management
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- Firebase
+
+  
 
 A few resources to get you started if this is your first Flutter project:
 
